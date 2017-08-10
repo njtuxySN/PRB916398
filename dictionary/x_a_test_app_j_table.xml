@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="J_table" max_length="40" name="x_a_test_app_j_table" type="collection"/>
+</database>

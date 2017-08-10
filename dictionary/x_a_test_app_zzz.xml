@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="zzz" max_length="40" name="x_a_test_app_zzz" type="collection"/>
+</database>

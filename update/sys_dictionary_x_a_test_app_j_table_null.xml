@@ -53,7 +53,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-08-10 21:36:37</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>6cce8f78492003000d3b2cf350a2d2ba</sys_id>
+        <sys_id>554fcf34bd20030000c081a7a2703fbb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_a_test_app_j_table</sys_name>
         <sys_package display_value="a_test_app" source="x_a_test_app">358747b4492003000d3b2cf350a2d270</sys_package>
@@ -62,7 +62,7 @@
         <sys_scope display_value="a_test_app">358747b4492003000d3b2cf350a2d270</sys_scope>
         <sys_update_name>sys_dictionary_x_a_test_app_j_table_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-08-10 21:44:04</sys_updated_on>
+        <sys_updated_on>2017-08-10 21:46:17</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

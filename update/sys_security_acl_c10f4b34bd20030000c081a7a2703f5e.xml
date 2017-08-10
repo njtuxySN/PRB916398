@@ -7,22 +7,22 @@
         <condition/>
         <description>Default access control on x_a_test_app_p_table</description>
         <name>x_a_test_app_p_table</name>
-        <operation display_value="write">write</operation>
+        <operation display_value="delete">delete</operation>
         <script/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-08-10 21:44:34</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>2ceecbb8492003000d3b2cf350a2d244</sys_id>
+        <sys_created_on>2017-08-10 21:45:09</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>c10f4b34bd20030000c081a7a2703f5e</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_a_test_app_p_table</sys_name>
         <sys_package display_value="a_test_app" source="x_a_test_app">358747b4492003000d3b2cf350a2d270</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="a_test_app">358747b4492003000d3b2cf350a2d270</sys_scope>
-        <sys_update_name>sys_security_acl_2ceecbb8492003000d3b2cf350a2d244</sys_update_name>
+        <sys_update_name>sys_security_acl_c10f4b34bd20030000c081a7a2703f5e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-10 21:44:34</sys_updated_on>
+        <sys_updated_on>2017-08-10 21:45:09</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>

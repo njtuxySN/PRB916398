@@ -5,22 +5,24 @@
         <license_condition/>
         <license_model>none</license_model>
         <license_roles/>
-        <name>x_a_test_app_c_table</name>
+        <name>x_a_test_app_b_table</name>
         <op_delete>true</op_delete>
         <op_insert>true</op_insert>
         <op_update>true</op_update>
         <owner_condition/>
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-08-10 21:32:20</sys_created_on>
-        <sys_id>79cc47f464200300aef7b7267381364a</sys_id>
+        <sys_created_on>2017-08-10 21:27:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a0ce8f78492003000d3b2cf350a2d2b6</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_a_test_app_c_table</sys_name>
+        <sys_name>x_a_test_app_b_table</sys_name>
         <sys_package display_value="a_test_app" source="x_a_test_app">358747b4492003000d3b2cf350a2d270</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="a_test_app">358747b4492003000d3b2cf350a2d270</sys_scope>
-        <sys_update_name>ua_table_licensing_config_79cc47f464200300aef7b7267381364a</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_a0ce8f78492003000d3b2cf350a2d2b6</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-10 21:32:20</sys_updated_on>
+        <sys_updated_on>2017-08-10 21:27:41</sys_updated_on>
     </ua_table_licensing_config>
 </record_update>
